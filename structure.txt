@@ -11,7 +11,7 @@
     /test
         /unit
         /integration
-    /doc
+    /docs
         /design
         /api
     /hardware
