@@ -1,0 +1,9 @@
+bin/
+build/
+docs/
+hardware/
+lib/
+lib/external/
+src/
+text/
+tools/
