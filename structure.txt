@@ -10,20 +10,29 @@
                 LCDManager.cpp
     /test
         /unit
+            .gitkeep
         /integration
+            .gitkeep
     /docs
         /design
+            .gitkeep
         /api
+            .gitkeep
     /hardware
         schematic.pdf
     /bin
+        .gitkeep
     /build
+        .gitkeep
     /lib
         /external
+            .gitkeep
     /.github
         /workflows
             arduino-ci.yml
     /tools
+        .gitkeep
+
     .gitignore
     README.md
     LICENSE
